@@ -21,6 +21,5 @@
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <br><br>
 <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img align="center" alt="aws" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-" />
+<img align="center" alt="aws" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
