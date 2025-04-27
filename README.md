@@ -1,6 +1,6 @@
 ### Welcome to my profile! 😃✨
 
-[![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-prates-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-prates-dev){:target="_blank"}
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmpratesdev&show_icons=true&theme=tokyonight)
 
